@@ -1,0 +1,4 @@
+git config --global user.name "sshell72"
+git config --global user.email "sshell72@mail.ru"
+git config --global core.autocrlf true
+git config --global core.safecrlf true
